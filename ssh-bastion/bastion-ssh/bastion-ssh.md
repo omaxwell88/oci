@@ -1,10 +1,11 @@
-# Title of the Lab
+# Lab 1: Generate SSH Keys
 
 ## Introduction
+The SSH (Secure Shell) protocol is a method for secure remote login from one computer to another. SSH is commonly used for manages servers and other systems, as it provides a way to access the command line of the remote machine securely
 
-*Describe the lab in one or two sentences, for example:* This lab walks you through the steps to ...
 
-Estimated Lab Time: -- minutes
+
+Estimated Lab Time: -- 5 minutes
 
 ### About <Product/Technology> (Optional)
 Enter background information here about the technology/feature or product used in this lab - no need to repeat what you covered in the introduction. Keep this section fairly concise. If you find yourself needing more than two sections/paragraphs, please utilize the "Learn More" section.

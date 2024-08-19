@@ -127,7 +127,7 @@ Ensure you are creating your instance in your Demo_VCN you created in Lab 2:
 
 Ensure you are creating your instance in your private subnet from Lab 2:
 
-![Image alt text](images/PrivSub.png)
+![Image alt text](images/PrivSubnet.png)
 
 Click 'Paste public keys'. Paste your public SSH key that you generated from Lab 1:
 
